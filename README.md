@@ -19,25 +19,25 @@ usacountywise.csv - Day to day county level no. of cases
 worldometer_data.csv - Latest data from https://www.worldometers.info/
 
 ## Insights
-The Date vs Confirmed cases graph :
+1. The Date vs Confirmed cases graph :
 
 Cases have being increased from Feb 2020 to July 2020
 
 ![image](https://github.com/user-attachments/assets/2feaaaa7-06e0-4b88-9095-b64cfcfdc78c)
 
-Day wise CONFIRMED, RECOVERED and DEATHS graph :
+2. Day wise CONFIRMED, RECOVERED and DEATHS graph :
 
 Confirmed cases were increasing rapid from feb 2020 to July 2020 as compared to recovery rate. Death rate was quite low comparing to confirmed cases and recovery rate.
 
 ![image](https://github.com/user-attachments/assets/26138146-2596-4adc-991b-f4aae90a7d8d)
 
-15 countrues with the most new infections graph :
+3. 15 countrues with the most new infections graph :
 
 US country has the most new infected cases and Israel has the least new infected cases.
 
 ![image](https://github.com/user-attachments/assets/a853481c-5464-43d2-be5d-e6f753b8d9d8)
 
-Top 10 Most Affected Countries and their Death Rate & Recovery Rate graph :
+4. Top 10 Most Affected Countries and their Death Rate & Recovery Rate graph :
 
 US has large number of confirmed cases and Italy has lass number of confirmed cases.
 
